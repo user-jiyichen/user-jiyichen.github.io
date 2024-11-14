@@ -7,6 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+<iframe src="/files/Yichen_Ji_CV.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
-<embed src="{{ site.baseurl }}/files/Yichen_Ji_CV.pdf" width="600" height="700" type='application/pdf'> 
+You can download a PDF copy of my CV [here](/files/Yichen_Ji_CV.pdf)
