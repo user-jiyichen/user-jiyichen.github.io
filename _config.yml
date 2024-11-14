@@ -21,7 +21,7 @@ repository               : "user-jiyichen/user-jiyichen.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : ![portrait](images/portrait1.jpg)
+  avatar           : ![portrait](images/portrait1.png)
   name             : "Yichen Ji (季祎晨)"
   pronouns         :  
   bio              : "Put the right tools at the service of the right insights"
