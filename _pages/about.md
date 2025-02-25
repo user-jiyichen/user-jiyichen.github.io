@@ -13,4 +13,5 @@ I am broadly interested in Bayesian methodology, probabilistic modeling, and app
 
 My master's thesis was on large-scale realized volatility prediction with machine learning (see my [presentation slides](/files/Master_Thesis_Presentation_Slides.pdf) and [paper](/files/YichenJi_Master_Thesis_Unsigned.pdf)). Influenced by my prior academic training and research, I continue to have a side interest in financial econometrics and mathematical finance.
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=n&d=dnHckHycKKYjP5T7X0GJGRPozhk5Th2JPZuh7MnR8g0&cmo=be454f&cmn=009499'></script>
+
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=400&t=tt&d=dnHckHycKKYjP5T7X0GJGRPozhk5Th2JPZuh7MnR8g0&cmo=be454f&cmn=009499'></script>
