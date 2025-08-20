@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my homepage! I am a Ph.D. student in Statistics at the University of Toronto, advised by Professor [Radu Craiu](https://www.utstat.utoronto.ca/craiu/) and Professor [Monica Alexander](https://www.monicaalexander.com/). I am also an Affiliate Researcher at the [Vector Institute](https://vectorinstitute.ai/). 
+Welcome to my homepage! I am a Ph.D. student in Statistics at the University of Toronto, advised by Professor [Radu Craiu](https://raducraiu.com/) and Professor [Monica Alexander](https://www.monicaalexander.com/). I am also an Affiliate Researcher at the [Vector Institute](https://vectorinstitute.ai/). 
 
 My research focuses on Bayesian methodology, probabilistic modeling, and approximate inference. My current project works on Bayesian modeling for generating probabilistic population projections.
 
