@@ -1,12 +1,13 @@
 ---
-title: "Discussion of [Model Uncertainty and Missing Data: An Objective Bayesian Perspective](https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Model-Uncertainty-and-Missing-Data-An-Objective-Bayesian-Perspective/10.1214/25-BA1531.full)"
-authors:
-  - Radu Craiu
-  - Monica Alexander
+title: "Discussion of Model Uncertainty and Missing Data: An Objective Bayesian Perspective"
 collection: publications
+category: manuscripts
+permalink: /files/mumd-discussion.pdf
+excerpt: ''
 date: TBA
-venue: "Bayesian Analysis (to appear)"
-type: "paper"
-category: journal
+venue: 'Bayesian Analysis (to appear)'
+paperurl: ''
+slidesurl: ''
+bibtexurl: ''
+citation: 'Yichen Ji, Radu V. Craiu, and Monica J. Alexander. (2025). "Discussion of Model Uncertainty and Missing Data: An Objective Bayesian Perspective." <i>Bayesian Analysis</i>, to appear.'
 ---
-
