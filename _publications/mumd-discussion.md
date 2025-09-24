@@ -2,7 +2,7 @@
 title: "Discussion of Model Uncertainty and Missing Data: An Objective Bayesian Perspective"
 collection: publications
 category: manuscripts
-permalink: /files/mumd-discussion.pdf
+permalink: https://raducraiu.com/wp-content/uploads/2025/09/mumd-discussion.pdf
 excerpt: ''
 date: TBA
 venue: 'Bayesian Analysis (to appear)'
