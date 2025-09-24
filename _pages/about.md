@@ -13,6 +13,6 @@ I received my M.S. in Statistics from the University of Chicago in 2024, where I
 
 My research focuses on Bayesian methodology, probabilistic modeling, and approximate inference. My current project works on Bayesian modeling for generating probabilistic population projections. My master's thesis was on large-scale realized volatility prediction with machine learning (see my [presentation slides](/files/Master_Thesis_Presentation_Slides.pdf) and [paper](/files/YichenJi_Master_Thesis_Unsigned.pdf)). Influenced by my prior academic training and research, I have continued to develop a side interest in financial econometrics.
 
-Outside of research, I spend a decent amount of time behind the lens or on the court. I enjoy the theory and practice of photography, and I carry over sportsmanship in the game of basketball and life.
+Outside of research, I spend a decent amount of time behind the lens or on the court. I enjoy the theory and practice of photography, and I carry the spirit of sportsmanship in the game of basketball and life.
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=400&t=tt&d=dnHckHycKKYjP5T7X0GJGRPozhk5Th2JPZuh7MnR8g0&cmo=be454f&cmn=009499'></script>
