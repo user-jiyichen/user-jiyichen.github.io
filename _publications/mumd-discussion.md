@@ -7,6 +7,6 @@ excerpt: ''
 date: 2025
 venue: 'Bayesian Analysis (to appear)'
 paperurl: "https://user-jiyichen.github.io/files/mumd-discussion.pdf"
-# slidesurl: ''
+slidesurl: ''
 bibtexurl: ''
 ---
