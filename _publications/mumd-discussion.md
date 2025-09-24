@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2025-model-uncertainty-discussion
 excerpt: ''
-date: 2025
+date: 2025-09-01
 venue: 'Bayesian Analysis (to appear)'
 paperurl: "https://user-jiyichen.github.io/files/mumd-discussion.pdf"
 slidesurl: ''
