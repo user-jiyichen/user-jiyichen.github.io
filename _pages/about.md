@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my homepage! I am a Ph.D. student in Statistics at the University of Toronto, advised by Professor [Radu Craiu](https://raducraiu.com/) and Professor [Monica Alexander](https://www.monicaalexander.com/). I am also an Affiliate Researcher at the [Vector Institute](https://vectorinstitute.ai/). 
+Welcome to my homepage! I am a second-year Ph.D. student in Statistics at the University of Toronto, advised by Professor [Radu Craiu](https://raducraiu.com/) and Professor [Monica Alexander](https://www.monicaalexander.com/). I am also an Affiliate Researcher at the [Vector Institute](https://vectorinstitute.ai/). 
 
 I received my M.S. in Statistics from the University of Chicago in 2024, where I was very fortunate to be mentored by Professor [Dacheng Xiu](https://dachxiu.chicagobooth.edu/) and Professor [Per Mykland](https://galton.uchicago.edu/~mykland/). Before UChicago, I received my B.S. in Statistics and Financial Mathematics, also from UofT. 
 
