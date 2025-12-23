@@ -7,5 +7,6 @@ excerpt: 'See page 56-59 for our contributed discussion of the paper.'
 date: 2025
 venue: 'Bayesian Analysis'
 paperurl: "https://projecteuclid.org/journalArticle/Download?urlId=10.1214%2F25-BA1531"
+slidesurl: ''
 bibtexurl: ''
 ---
