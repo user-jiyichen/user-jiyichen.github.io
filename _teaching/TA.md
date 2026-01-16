@@ -1,11 +1,17 @@
 ---
 layout: archive
-title: "Teaching"
+title: "Teaching & Mentoring"
 permalink: /teaching/
 author_profile: true
 ---
 
 #### **University of Toronto**
+
+- **Mentor**, (*Directed Reading Program (DRP)*)[https://sgsu-uoft.github.io/drp.html]
+  Topics:
+  - (Statistical Rethinking)[https://github.com/rmcelreath/stat_rethinking_2026]
+  - (Machine Learning for Inverse Problems and Data Assimilation)[https://arxiv.org/pdf/2410.10523]
+  - (Flow Matching)[https://arxiv.org/abs/2412.06264]
 
 - **TA**, *STA414/2104: Statistical Methods for Machine Learning II*  
   Jan 2025 – Apr 2025, Jan 2026 – Apr 2026
@@ -23,18 +29,8 @@ author_profile: true
 - **TA**, *Applications of Hierarchical Linear Models in Longitudinal and Multilevel Research (Graduate)*  
   Apr 2024 – Jun 2024
 
-- **Grader**, *Multivariate Statistical Analysis (Graduate)*  
-  Apr 2024 – Jun 2024
-
 - **TA**, *Big Data (Undergraduate), Booth School of Business*  
   Jan 2024 – Mar 2024
 
 - **TA**, *Introduction to Statistical Methods in Economics (Undergraduate)*  
   Jan 2024 – Mar 2024
-
-- **Grader**, *Statistical Theory and Methods 1a (Graduate)*  
-  Sep 2023 – Dec 2023
-
-- **Grader**, *Statistical Models and Methods 1 (Undergraduate)*  
-  Apr 2023 – Jun 2023
-
