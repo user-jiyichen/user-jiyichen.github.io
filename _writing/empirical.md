@@ -1,7 +1,7 @@
 ---
 title: "the Statistical Limit of Arbitrage"
 collection: writing
-date: 2023-05-09
+date: 2024-03-07
 link: /files/empirical_bayes.pdf
 ---
 
