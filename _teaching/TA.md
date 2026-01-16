@@ -7,7 +7,7 @@ author_profile: true
 
 #### **University of Toronto**
 
-- **Mentor**, (*Directed Reading Program (DRP)*)[https://sgsu-uoft.github.io/drp.html]
+- **Mentor**, [*Directed Reading Program (DRP)*](https://sgsu-uoft.github.io/drp.html)
   Topics:
   - [Statistical Rethinking](https://github.com/rmcelreath/stat_rethinking_2026)
   - [Machine Learning for Inverse Problems and Data Assimilation](https://arxiv.org/pdf/2410.10523)
