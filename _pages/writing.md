@@ -3,9 +3,5 @@ layout: archive
 title: "Writing"
 collection: writing
 permalink: /writing/
+author_profile: true
 ---
-
-{% for x in site.writing %}
-- {{ x.title }} ({{ x.url }})
-{% endfor %}
-
