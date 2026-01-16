@@ -1,7 +1,7 @@
 ---
 title: "Local Average Treatment Effect (LATE)"
 collection: writing
-date: 2023-05-09
+date: 2024-03-01
 link: /files/causal_LATE.pdf
 ---
 
