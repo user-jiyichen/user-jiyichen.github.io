@@ -2,7 +2,7 @@
 title: "Convex and Nonconvex Optimization for Low Rank Matrix Completion"
 collection: talks
 type: "Presentation"
-paperurl: /files/STAT_37797_Presentation.pdf
+link: /files/STAT_37797_Presentation.pdf
 venue: "Topics in Spectral Methods and Nonlinear Optimization"
 date: 2024-02-29
 location: "Chicago, IL, USA"
