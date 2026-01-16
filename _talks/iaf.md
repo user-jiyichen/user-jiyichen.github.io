@@ -2,7 +2,7 @@
 title: "Inverse Autoregressive Flows"
 collection: talks
 type: "Presentation"
-paperurl: /files/IAF_slides.pdf
+link: /files/IAF_slides.pdf
 venue: "Seminar in Advanced Bayesian Methodology"
 date: 2023-10-26
 location: "Chicago, IL, USA"
