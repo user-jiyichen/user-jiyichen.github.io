@@ -215,6 +215,7 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
+    title: "Teaching & Mentoring"
   publications:
     output: true
     permalink: /:collection/:path/
@@ -224,6 +225,10 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  writing:
+    output: true
+    permalink: /:collection/:path/
+    title: "Writing"
 
 
 # These settings control how pages and collections are included in the site
