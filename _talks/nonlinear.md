@@ -8,4 +8,4 @@ date: 2024-02-29
 location: "Chicago, IL, USA"
 ---
 
-This review will go through the progress of convex and nonconvex approaches that deal with low-rank matrix completion and aims to unravel the inherent synergies between these two approaches.
+This presentation reviews the progress of convex and nonconvex approaches that deal with low-rank matrix completion and aims to unravel the inherent synergies between these two approaches.
