@@ -13,10 +13,10 @@ author_profile: true
   - [Machine Learning for Inverse Problems and Data Assimilation](https://arxiv.org/pdf/2410.10523)
   - [Flow Matching](https://arxiv.org/abs/2412.06264)
 
-- **TA**, *STA414/2104: Statistical Methods for Machine Learning II*  
+- **TA**, [*STA414/2104: Statistical Methods for Machine Learning II*](https://thibaultrandrianarisoa.netlify.app/courses/sta414/)  
   Jan 2025 – Apr 2025, Jan 2026 – Apr 2026
 
-- **TA**, *STA355: Theory of Statistical Practice*  
+- **TA**, [*STA355: Theory of Statistical Practice*](https://mouwenlong.github.io/teaching/sta355f25/schedule.html)
   Sep 2025 – Dec 2025
 
 - **TA**, *STA237: Probability, Statistics and Data Analysis I*  
