@@ -1,0 +1,223 @@
+/* ==========================================================================
+   DARK MODE
+   ========================================================================== */
+
+body.dark-theme {
+  background-color: var(--body-color);
+  color: var(--text-color);
+
+  /* links */
+  a {
+    color: var(--link-color);
+  }
+
+  /* inline code */
+  p > code,
+  a > code,
+  li > code,
+  figcaption > code,
+  td > code {
+    background: var(--code-background-color);
+    border-color: var(--border-color);
+    color: var(--text-color);
+  }
+
+  /* horizontal rule */
+  hr {
+    border-top-color: var(--border-color);
+  }
+
+  /* figcaption */
+  figcaption a {
+    border-bottom-color: var(--border-color-dark);
+    &:hover {
+      color: var(--hover-text-color);
+      border-bottom-color: var(--hover-text-color);
+    }
+  }
+
+  /* blockquote */
+  blockquote {
+    border-left-color: var(--link-color);
+    color: var(--text-color);
+  }
+
+  /* masthead */
+  .masthead {
+    background: var(--masthead-bg);
+    border-bottom-color: var(--border-color);
+  }
+
+  /* greedy nav */
+  .greedy-nav {
+    background: var(--masthead-bg);
+
+    a {
+      color: var(--text-color);
+      &:hover { color: var(--hover-text-color); }
+    }
+
+    .hidden-links {
+      background: var(--hidden-links-bg);
+      border-color: var(--border-color);
+
+      a:hover {
+        background: var(--toc-hover-bg);
+      }
+
+      &:before { border-color: var(--border-color) transparent; }
+      &:after  { border-color: var(--hidden-links-bg) transparent; }
+
+      li { border-bottom-color: var(--border-color); }
+    }
+  }
+
+  /* footer */
+  .page__footer {
+    background-color: var(--footer-bg);
+    border-top-color: var(--footer-border);
+    color: var(--footer-color);
+
+    a { color: var(--footer-color); }
+
+    .fas,
+    .fab,
+    .far,
+    .fal { color: var(--footer-color); }
+  }
+
+  /* sidebar / author profile */
+  .author__urls {
+    background: var(--author-urls-bg);
+    border-color: var(--border-color);
+
+    &:before { border-color: var(--border-color) transparent; }
+    &:after  { border-color: var(--author-urls-bg) transparent; }
+  }
+
+  .author__avatar img {
+    border-color: var(--border-color);
+  }
+
+  /* navigation */
+  .nav__sub-title {
+    border-bottom-color: var(--border-color);
+  }
+
+  /* table of contents */
+  .toc {
+    background-color: var(--toc-bg);
+    border-color: var(--border-color);
+    color: var(--text-color);
+
+    .toc__menu a {
+      color: var(--text-color);
+      border-bottom-color: var(--border-color);
+
+      &:hover {
+        background: var(--toc-hover-bg);
+        color: var(--hover-text-color);
+      }
+    }
+  }
+
+  /* page content borders */
+  .page__content h2 {
+    border-bottom-color: var(--border-color);
+  }
+
+  /* pagination */
+  .pagination {
+    li a {
+      border-color: var(--border-color-dark);
+      color: var(--text-color);
+    }
+    &--pager {
+      border-color: var(--border-color-dark);
+      color: var(--text-color);
+    }
+  }
+
+  .page__content + .pagination,
+  .page__meta + .pagination,
+  .page__share + .pagination,
+  .page__comments + .pagination {
+    border-top-color: var(--border-color);
+  }
+
+  /* syntax highlighting blocks */
+  div.highlighter-rouge,
+  figure.highlight {
+    background-color: var(--highlight-bg);
+    border-color: var(--border-color);
+
+    &:before {
+      background-color: var(--highlight-label-bg);
+      color: var(--text-color);
+    }
+  }
+
+  /* tables */
+  table {
+    thead {
+      background-color: var(--highlight-label-bg);
+      color: var(--text-color);
+    }
+    tbody tr:nth-child(even) {
+      background-color: var(--highlight-bg);
+    }
+    th,
+    td {
+      border-color: var(--border-color);
+      color: var(--text-color);
+    }
+  }
+
+  /* forms */
+  input,
+  select,
+  textarea {
+    background-color: var(--input-bg);
+    border-color: var(--input-border);
+    color: var(--text-color);
+  }
+}
+
+/* FOUC prevention: applied to <html> before body is ready.
+   Must use static value since --body-color dark override is scoped to body.dark-theme. */
+html.dark-theme-pending {
+  background-color: #1a1a2e; /* matches body.dark-theme --body-color */
+}
+
+/* Dark mode toggle button */
+.greedy-nav .dark-mode-toggle {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background: none;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  color: var(--toggle-btn-color);
+  font-size: 1.1rem;
+  padding: 0 0.5rem;
+  height: 2.5rem;
+  border-radius: 4px;
+  transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
+  vertical-align: middle;
+  outline: none;
+  position: absolute;
+  right: 2.5rem;
+
+  &:hover {
+    background-color: var(--toggle-btn-hover);
+  }
+
+  .dark-icon { display: none; }
+  .light-icon { display: inline; }
+}
+
+body.dark-theme .greedy-nav .dark-mode-toggle {
+  .dark-icon  { display: inline; }
+  .light-icon { display: none; }
+}
