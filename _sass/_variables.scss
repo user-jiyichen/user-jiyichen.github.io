@@ -3,6 +3,60 @@
    ========================================================================== */
 
 /*
+   CSS Custom Properties (Dark Mode Support)
+   ========================================================================== */
+
+:root {
+  --body-color: #ffffff;
+  --text-color: #494e52;
+  --border-color: #f2f3f3;
+  --border-color-dark: #bcc1c4;
+  --code-background-color: #fafafa;
+  --link-color: #52adc8;
+  --masthead-bg: #ffffff;
+  --footer-bg: #f2f3f3;
+  --footer-border: #bcc1c4;
+  --footer-color: #898d90;
+  --sidebar-bg: transparent;
+  --author-urls-bg: #ffffff;
+  --hidden-links-bg: #ffffff;
+  --toc-bg: #ffffff;
+  --toc-hover-bg: #f2f3f3;
+  --highlight-bg: #fafafa;
+  --highlight-label-bg: #f2f3f3;
+  --input-bg: #ffffff;
+  --input-border: #bcc1c4;
+  --toggle-btn-color: #494e52;
+  --toggle-btn-hover: #f2f3f3;
+  --hover-text-color: #ffffff;
+}
+
+body.dark-theme {
+  --body-color: #1a1a2e;
+  --text-color: #d0d0d0;
+  --border-color: #2d2d3a;
+  --border-color-dark: #444455;
+  --code-background-color: #1e1e2e;
+  --link-color: #5bc8e8;
+  --masthead-bg: #12121f;
+  --footer-bg: #0f0f1a;
+  --footer-border: #2d2d3a;
+  --footer-color: #999;
+  --sidebar-bg: transparent;
+  --author-urls-bg: #1e1e2e;
+  --hidden-links-bg: #1e1e2e;
+  --toc-bg: #1e1e2e;
+  --toc-hover-bg: #2a2a3e;
+  --highlight-bg: #1e1e2e;
+  --highlight-label-bg: #2a2a3e;
+  --input-bg: #1e1e2e;
+  --input-border: #444455;
+  --toggle-btn-color: #d0d0d0;
+  --toggle-btn-hover: #2d2d3a;
+  --hover-text-color: #ffffff;
+}
+
+/*
    Typography
    ========================================================================== */
 
