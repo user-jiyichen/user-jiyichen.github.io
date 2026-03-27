@@ -2,7 +2,7 @@
    DARK MODE
    ========================================================================== */
 
-body.dark-theme {
+html.dark-theme {
   background-color: var(--body-color);
   color: var(--text-color);
 
@@ -183,14 +183,9 @@ body.dark-theme {
   }
 }
 
-/* FOUC prevention: applied to <html> before body is ready.
-   Must use static value since --body-color dark override is scoped to body.dark-theme. */
-html.dark-theme-pending {
-  background-color: #1a1a2e; /* matches body.dark-theme --body-color */
-}
-
 /* Dark mode toggle button */
-.greedy-nav .dark-mode-toggle {
+.greedy-nav .dark-mode-toggle,
+.greedy-nav #dark-mode-toggle {
   display: inline-flex;
   align-items: center;
   justify-content: center;
@@ -206,8 +201,6 @@ html.dark-theme-pending {
   transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
   vertical-align: middle;
   outline: none;
-  position: absolute;
-  right: 2.5rem;
 
   &:hover {
     background-color: var(--toggle-btn-hover);
@@ -217,7 +210,8 @@ html.dark-theme-pending {
   .light-icon { display: inline; }
 }
 
-body.dark-theme .greedy-nav .dark-mode-toggle {
+html.dark-theme .greedy-nav .dark-mode-toggle,
+html.dark-theme .greedy-nav #dark-mode-toggle {
   .dark-icon  { display: inline; }
   .light-icon { display: none; }
 }
