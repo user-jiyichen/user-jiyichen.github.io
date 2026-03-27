@@ -10,7 +10,7 @@ layout: compress
     {% include head.html %}
     {% include head/custom.html %}
     <script>
-      // Apply saved theme before page renders to prevent flash
+      /* Apply saved theme before page renders to prevent flash. */
       (function() {
         var saved = localStorage.getItem('theme');
         if (saved === 'dark' || (!saved && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
@@ -47,7 +47,7 @@ layout: compress
       try {
         localStorage.setItem(STORAGE_KEY, isDark ? "dark" : "light");
       } catch (e) {
-        // Ignore storage errors (private mode / restricted contexts).
+        /* Ignore storage errors (private mode / restricted contexts). */
       }
     }
 
