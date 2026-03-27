@@ -1,8 +1,9 @@
 /* ==========================================================================
-   DARK MODE
+   DARK MODE OVERRIDES
    ========================================================================== */
 
-html.dark-theme {
+/* 1. Target the body conditionally based on the root state */
+html.dark-theme body {
   background-color: var(--body-color);
   color: var(--text-color);
 
@@ -48,7 +49,7 @@ html.dark-theme {
     border-bottom-color: var(--border-color);
   }
 
-  /* greedy nav */
+  /* greedy nav overrides */
   .greedy-nav {
     background: var(--masthead-bg);
 
@@ -61,13 +62,9 @@ html.dark-theme {
       background: var(--hidden-links-bg);
       border-color: var(--border-color);
 
-      a:hover {
-        background: var(--toc-hover-bg);
-      }
-
+      a:hover { background: var(--toc-hover-bg); }
       &:before { border-color: var(--border-color) transparent; }
       &:after  { border-color: var(--hidden-links-bg) transparent; }
-
       li { border-bottom-color: var(--border-color); }
     }
   }
@@ -78,12 +75,7 @@ html.dark-theme {
     border-top-color: var(--footer-border);
     color: var(--footer-color);
 
-    a { color: var(--footer-color); }
-
-    .fas,
-    .fab,
-    .far,
-    .fal { color: var(--footer-color); }
+    a, .fas, .fab, .far, .fal { color: var(--footer-color); }
   }
 
   /* sidebar / author profile */
@@ -97,11 +89,6 @@ html.dark-theme {
 
   .author__avatar img {
     border-color: var(--border-color);
-  }
-
-  /* navigation */
-  .nav__sub-title {
-    border-bottom-color: var(--border-color);
   }
 
   /* table of contents */
@@ -121,18 +108,13 @@ html.dark-theme {
     }
   }
 
-  /* page content borders */
-  .page__content h2 {
-    border-bottom-color: var(--border-color);
+  /* pagination & borders */
+  .page__content h2, .nav__sub-title { 
+    border-bottom-color: var(--border-color); 
   }
-
-  /* pagination */
+  
   .pagination {
-    li a {
-      border-color: var(--border-color-dark);
-      color: var(--text-color);
-    }
-    &--pager {
+    li a, &--pager {
       border-color: var(--border-color-dark);
       color: var(--text-color);
     }
@@ -146,8 +128,7 @@ html.dark-theme {
   }
 
   /* syntax highlighting blocks */
-  div.highlighter-rouge,
-  figure.highlight {
+  div.highlighter-rouge, figure.highlight {
     background-color: var(--highlight-bg);
     border-color: var(--border-color);
 
@@ -163,55 +144,44 @@ html.dark-theme {
       background-color: var(--highlight-label-bg);
       color: var(--text-color);
     }
-    tbody tr:nth-child(even) {
-      background-color: var(--highlight-bg);
-    }
-    th,
-    td {
+    tbody tr:nth-child(even) { background-color: var(--highlight-bg); }
+    th, td {
       border-color: var(--border-color);
       color: var(--text-color);
     }
   }
 
   /* forms */
-  input,
-  select,
-  textarea {
+  input, select, textarea {
     background-color: var(--input-bg);
     border-color: var(--input-border);
     color: var(--text-color);
   }
 }
 
-/* Dark mode toggle button */
-.greedy-nav .dark-mode-toggle,
-.greedy-nav #dark-mode-toggle {
+/* 2. Toggle Button Styling */
+#dark-mode-toggle {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  background: none;
-  background-color: transparent;
+  background: transparent;
   border: none;
   cursor: pointer;
-  color: var(--toggle-btn-color);
+  color: var(--toggle-btn-color, #494e52); 
   font-size: 1.1rem;
   padding: 0 0.5rem;
   height: 2.5rem;
-  border-radius: 4px;
-  transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
-  vertical-align: middle;
+  transition: color 0.2s ease-in-out;
   outline: none;
 
-  &:hover {
-    background-color: var(--toggle-btn-hover);
-  }
+  &:hover { color: var(--link-color); }
 
   .dark-icon { display: none; }
   .light-icon { display: inline; }
 }
 
-html.dark-theme .greedy-nav .dark-mode-toggle,
-html.dark-theme .greedy-nav #dark-mode-toggle {
+html.dark-theme #dark-mode-toggle {
+  color: var(--toggle-btn-color, #d0d0d0); 
   .dark-icon  { display: inline; }
   .light-icon { display: none; }
 }
