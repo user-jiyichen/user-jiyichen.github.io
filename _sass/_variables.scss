@@ -32,28 +32,24 @@
 }
 
 html.dark-theme {
-  --body-color: #111315;            /* Pantone Black C-inspired */
-  --text-color: #f5f7fa;            /* crisp white */
-  --text-color-muted: #b8c0cc;      /* cool muted gray */
-  --border-color: #2a2f36;
-  --border-color-dark: #3a424c;
-  --code-background-color: #171b21;
-  --surface-color: #1a1f26;
-  --surface-color-2: #202631;
-  --link-color: #8ab4f8;            /* restrained technical blue */
-  --link-hover-color: #b3ccff;
-  --masthead-bg: #0d0f12;
-  --footer-bg: #0b0d10;
-  --footer-border: #232831;
-  --footer-color: #98a2b3;
-  --toc-bg: #171b21;
-  --toc-hover-bg: #222935;
-  --highlight-bg: #171b21;
-  --highlight-label-bg: #222935;
-  --input-bg: #171b21;
-  --input-border: #3a424c;
-  --toggle-btn-color: #f5f7fa;
-  --toggle-btn-hover: #222935;
+  --body-color: #17181b;          /* cooler than pure Black C for reading */
+  --surface-color: #1f2024;
+  --surface-color-2: #27282d;
+  --text-color: #f1f0ec;          /* Cloud Dancer-like */
+  --text-muted: #c8c5be;
+  --border-color: #34363c;
+  --border-color-dark: #454850;
+  --code-background-color: #1b1d22;
+  --link-color: #8fb7ff;          /* restrained research-blue */
+  --link-hover-color: #bdd3ff;
+  --accent-color: #9fb3c8;        /* blue-gray for subtle highlights */
+  --masthead-bg: #131417;
+  --footer-bg: #111215;
+  --footer-color: #a8a39a;
+  --toc-bg: #1f2024;
+  --toc-hover-bg: #2a2d33;
+  --input-bg: #1d1f23;
+  --input-border: #454850;
   --hover-text-color: #ffffff;
 }
 
