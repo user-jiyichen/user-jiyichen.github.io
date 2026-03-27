@@ -37,20 +37,15 @@ layout: compress
     {% include scripts.html %}
 
   <script>
-  // Event delegation to handle DOM mutations from greedy-nav.js
-  document.addEventListener("click", function(e) {
-    const toggleBtn = e.target.closest("#dark-mode-toggle");
+  // Globally scoped function to bypass event propagation blockers
+  window.toggleDarkMode = function() {
+    const htmlRoot = document.documentElement;
+    htmlRoot.classList.toggle("dark-theme");
     
-    if (toggleBtn) {
-      e.preventDefault();
-      
-      const htmlRoot = document.documentElement;
-      htmlRoot.classList.toggle("dark-theme");
-      
-      const isDark = htmlRoot.classList.contains("dark-theme");
-      localStorage.setItem("theme", isDark ? "dark" : "light");
-    }
-  });
+    // Persist state
+    const isDark = htmlRoot.classList.contains("dark-theme");
+    localStorage.setItem("theme", isDark ? "dark" : "light");
+  };
   </script>
 
   </body>
