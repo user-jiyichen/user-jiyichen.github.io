@@ -32,24 +32,32 @@
 }
 
 html.dark-theme {
-  --body-color: #17181b;          /* cooler than pure Black C for reading */
-  --surface-color: #1f2024;
-  --surface-color-2: #27282d;
-  --text-color: #f1f0ec;          /* Cloud Dancer-like */
-  --text-muted: #c8c5be;
-  --border-color: #34363c;
-  --border-color-dark: #454850;
-  --code-background-color: #1b1d22;
-  --link-color: #8fb7ff;          /* restrained research-blue */
-  --link-hover-color: #bdd3ff;
-  --accent-color: #9fb3c8;        /* blue-gray for subtle highlights */
-  --masthead-bg: #131417;
-  --footer-bg: #111215;
-  --footer-color: #a8a39a;
-  --toc-bg: #1f2024;
-  --toc-hover-bg: #2a2d33;
-  --input-bg: #1d1f23;
-  --input-border: #454850;
+  /* Base */
+  --body-color: #121416;          /* Pantone Black C inspired */
+  --text-color: #f0eee9;          /* Cloud Dancer inspired */
+  --border-color: #2a2e33;
+  --border-color-dark: #3a4047;
+
+  /* Surfaces */
+  --code-background-color: #181c20;
+  --masthead-bg: #0e1012;
+  --footer-bg: #0c0e10;
+  --footer-border: #2a2e33;
+  --footer-color: #b8b4ad;
+  --sidebar-bg: #15191d;          /* no transparency, avoids leftover light areas */
+  --author-urls-bg: #181c20;
+  --hidden-links-bg: #181c20;
+  --toc-bg: #181c20;
+  --toc-hover-bg: #22272d;
+  --highlight-bg: #181c20;
+  --highlight-label-bg: #22272d;
+  --input-bg: #181c20;
+  --input-border: #3a4047;
+
+  /* Text / interaction */
+  --link-color: #9fc5d6;          /* restrained cool academic blue */
+  --toggle-btn-color: #f0eee9;
+  --toggle-btn-hover: #22272d;
   --hover-text-color: #ffffff;
 }
 
