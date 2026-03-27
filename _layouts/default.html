@@ -41,6 +41,7 @@ layout: compress
     var STORAGE_KEY = "theme";
     var ROOT = document.documentElement;
     var TOGGLE_SELECTOR = ".dark-mode-toggle";
+    var NAV_SELECTOR = "#site-nav";
 
     function persistTheme(isDark) {
       try {
@@ -64,6 +65,8 @@ layout: compress
     }
 
     function consumeToggleEvent(event, toggleEl) {
+      if (event.__darkModeHandled) return;
+      event.__darkModeHandled = true;
       event.preventDefault();
       event.stopPropagation();
       if (typeof event.stopImmediatePropagation === "function") {
@@ -91,8 +94,45 @@ layout: compress
       consumeToggleEvent(event, toggleEl);
     }
 
+    function bindDirectListeners(toggleEl) {
+      if (!toggleEl || toggleEl.dataset.darkToggleBound === "1") return;
+      toggleEl.dataset.darkToggleBound = "1";
+
+      toggleEl.addEventListener("click", function(event) {
+        consumeToggleEvent(event, toggleEl);
+      }, true);
+
+      toggleEl.addEventListener("keydown", function(event) {
+        if (!isActivationKey(event)) return;
+        consumeToggleEvent(event, toggleEl);
+      }, true);
+    }
+
+    function bindAllToggleElements() {
+      var toggleEls = document.querySelectorAll(TOGGLE_SELECTOR);
+      for (var i = 0; i < toggleEls.length; i++) {
+        bindDirectListeners(toggleEls[i]);
+      }
+    }
+
+    function observeGreedyNavMutations() {
+      var navEl = document.querySelector(NAV_SELECTOR);
+      if (!navEl || !window.MutationObserver) return;
+
+      var observer = new MutationObserver(function() {
+        bindAllToggleElements();
+      });
+
+      observer.observe(navEl, {
+        childList: true,
+        subtree: true
+      });
+    }
+
     document.addEventListener("click", handleCaptureClick, true);
     document.addEventListener("keydown", handleCaptureKeydown, true);
+    bindAllToggleElements();
+    observeGreedyNavMutations();
 
     window.toggleDarkMode = toggleTheme;
   })();
