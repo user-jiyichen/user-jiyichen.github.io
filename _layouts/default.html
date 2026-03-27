@@ -37,15 +37,65 @@ layout: compress
     {% include scripts.html %}
 
   <script>
-  // Globally scoped function to bypass event propagation blockers
-  window.toggleDarkMode = function() {
-    const htmlRoot = document.documentElement;
-    htmlRoot.classList.toggle("dark-theme");
-    
-    // Persist state
-    const isDark = htmlRoot.classList.contains("dark-theme");
-    localStorage.setItem("theme", isDark ? "dark" : "light");
-  };
+  (function() {
+    var STORAGE_KEY = "theme";
+    var ROOT = document.documentElement;
+    var TOGGLE_SELECTOR = ".dark-mode-toggle";
+
+    function persistTheme(isDark) {
+      try {
+        localStorage.setItem(STORAGE_KEY, isDark ? "dark" : "light");
+      } catch (e) {
+        // Ignore storage errors (private mode / restricted contexts).
+      }
+    }
+
+    function setTheme(isDark) {
+      ROOT.classList.toggle("dark-theme", isDark);
+      persistTheme(isDark);
+    }
+
+    function toggleTheme() {
+      setTheme(!ROOT.classList.contains("dark-theme"));
+    }
+
+    function isActivationKey(event) {
+      return event.key === "Enter" || event.key === " " || event.key === "Spacebar";
+    }
+
+    function consumeToggleEvent(event, toggleEl) {
+      event.preventDefault();
+      event.stopPropagation();
+      if (typeof event.stopImmediatePropagation === "function") {
+        event.stopImmediatePropagation();
+      }
+      if (toggleEl) {
+        toggleEl.blur();
+      }
+      toggleTheme();
+    }
+
+    function handleCaptureClick(event) {
+      var target = event.target;
+      if (!target || !(target instanceof Element)) return;
+      var toggleEl = target.closest(TOGGLE_SELECTOR);
+      if (!toggleEl) return;
+      consumeToggleEvent(event, toggleEl);
+    }
+
+    function handleCaptureKeydown(event) {
+      var target = event.target;
+      if (!target || !(target instanceof Element)) return;
+      var toggleEl = target.closest(TOGGLE_SELECTOR);
+      if (!toggleEl || !isActivationKey(event)) return;
+      consumeToggleEvent(event, toggleEl);
+    }
+
+    document.addEventListener("click", handleCaptureClick, true);
+    document.addEventListener("keydown", handleCaptureKeydown, true);
+
+    window.toggleDarkMode = toggleTheme;
+  })();
   </script>
 
   </body>
