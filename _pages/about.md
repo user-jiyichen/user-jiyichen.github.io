@@ -28,6 +28,7 @@ Influenced by my prior academic training and research, I have continued to devel
 - **2025-11**: Presented [A Gentle Introduction to Conformal Prediction](https://arxiv.org/abs/2107.07511) at Applied Statistics Reading Group.
 - **2025-09**: Served as the local organizing committee of the conference [Fast and Curious 2: MCMC in Action](https://raducraiu.com/the-fast-and-curious-ii-mcmc-in-action/).
 - **2025-06**: Served as the [UTSSRP](https://www.statistics.utoronto.ca/UTSSRP#%23university-of-toronto-statistical-sciences-research-program-utssrp-guide-accordion-1) student ambassador and instructor, and led 2 tutorial sessions on Applied Statistics.
+- **2024-09**: Started my PhD!
 
 ---
 
