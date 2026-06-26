@@ -9,11 +9,27 @@ redirect_from:
 
 Welcome to my homepage! I am a second-year Ph.D. student in Statistics at the University of Toronto, advised by Professor [Radu Craiu](https://raducraiu.com/) and Professor [Monica Alexander](https://www.monicaalexander.com/). I am also an Affiliate Researcher at the [Vector Institute](https://vectorinstitute.ai/) and supported by the [Data Sciences Institute (DSI)](https://datasciences.utoronto.ca/) Doctoral Student Fellowship. 
 
-My research focuses on Bayesian methodology, deep generative modeling, and probabilistic inference for complex data. I am also thinking about how deep generative models can empower scalable Bayesian computation. I co-organize the department’s [Bayesian reading group](https://docs.google.com/spreadsheets/d/1TjVcgiL5OHDxMNK1HZgJJDFR3zyxfBesKZMlADuHpG8/edit?gid=0#gid=0). If you’d like to collaborate, chat about research/life, or give a guest talk at our reading group, please feel free to drop me an email!
+My research focuses on modern Bayesian methodology, scalable computation, and principled statistical practice for complex applied problems. I am also thinking about how deep generative models can empower scalable Bayesian computation. I initiate and co-organize the department’s [Bayesian reading group](https://docs.google.com/spreadsheets/d/1TjVcgiL5OHDxMNK1HZgJJDFR3zyxfBesKZMlADuHpG8/edit?gid=0#gid=0). If you’d like to collaborate, chat about research/life, or give a guest talk at our reading group, please feel free to drop me an email!
 
 Back in the day, I received my M.S. in Statistics from the University of Chicago in 2024, where I spent two wonderful and intellectually stimulating years, and was fortunate to be mentored by Professor [Dacheng Xiu](https://dachxiu.chicagobooth.edu/) and Professor [Per Mykland](https://galton.uchicago.edu/~mykland/). My master's thesis was on large-scale realized volatility prediction with machine learning (see my [presentation slides](/files/Master_Thesis_Presentation_Slides.pdf)). Before UChicago, I received my B.S. in Statistics and Financial Mathematics also from UofT.
 
 Influenced by my prior academic training and research, I have continued to develop a side interest in financial machine learning. Outside of research, I spend a decent amount of time behind the lens and on the court. I enjoy the [theory](https://www.lab404.com/3741/readings/sontag.pdf) and practice of photography, and I carry the spirit of sportsmanship in the game of basketball and life.
+
+---
+## News
+
+- **2026-08**: Will give a contributed poster presentation, `Hierarchical Bayesian Copula Model for Probabilistic Population Projection,' at JSM in Boston. Stop by my poster and say hi!
+- **2026-07**: Will give a tutorial on Bayesian Workflow using PyMC in [STATSTRO 2026: Sampling, Simulation, and Scientific Discovery](https://statstro.com/)
+- **2026-06**: Attended [`Uncertainty in AI' workshop](https://ivado.ca/en/events/2nd-workshop-uncertainty-in-ai/) in Montreal.
+- **2026-05**: Was awarded the [DSI Doctoral Student Fellowship](https://datasciences.utoronto.ca/doctoral-fellows/). Thanks, DSI!
+- **2026-04**: Presented `Hierarchical Bayesian Copula Model for Probabilistic Population Projection' at DoSS Research Day.
+- **2026-01**: Presented [Neural Methods for Amortized Inference](https://www.annualreviews.org/content/journals/10.1146/annurev-statistics-112723-034123) at Bayesian Reading Group.
+- **2025-12**: Contributed Discussion of ``model Uncertainty and Missing Data: An Objective Bayesian Perspective” was published in Bayesian Analysis.
+- **2025-11**: Presented [Conformal Prediction as Bayesian Quadrature](https://arxiv.org/abs/2502.13228) at Bayesian Reading Group.
+- **2025-11**: Presented [A Gentle Introduction to Conformal Prediction](https://arxiv.org/abs/2107.07511) at Applied Statistics Reading Group.
+- **2025-09**: Served as the local organizing committee of the conference [`Fast and Curious 2: MCMC in Action'](https://raducraiu.com/the-fast-and-curious-ii-mcmc-in-action/).
+- **2025-06**: Served as the 2025 [UTSSRP](https://www.statistics.utoronto.ca/UTSSRP#%23university-of-toronto-statistical-sciences-research-program-utssrp-guide-accordion-1) Student Ambassador and instructor, and led 2 tutorial sessions on Applied Statistics.
+---
 
 <!-- <script
   type="text/javascript"
@@ -22,5 +38,7 @@ Influenced by my prior academic training and research, I have continued to devel
 </script> -->
 
 <script 
-  type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=5RkncXKTAOBsWyNU76VfevrdOu4wg6mA7A1Mp6b3udc&cl=ffffff&w=a">
+  type="text/javascript"
+  id="mapmyvisitors"
+  src="//mapmyvisitors.com/map.js?d=5RkncXKTAOBsWyNU76VfevrdOu4wg6mA7A1Mp6b3udc&cl=ffffff&w=220&h=120">
 </script>
