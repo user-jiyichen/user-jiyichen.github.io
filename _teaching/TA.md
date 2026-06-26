@@ -1,9 +1,11 @@
 ---
 layout: archive
 title: "Teaching & Mentoring"
-permalink: /teaching/
+permalink: /teaching/j
 author_profile: true
 ---
+
+I enjoy teaching because I believe in the power of articulation. I like to practice expressing ideas in minimum description length and help others understand technical concepts jargon-free.
 
 #### **University of Toronto**
 
@@ -13,14 +15,7 @@ author_profile: true
   - [Machine Learning for Inverse Problems and Data Assimilation](https://arxiv.org/pdf/2410.10523)
   - [Flow Matching](https://arxiv.org/abs/2412.06264) and [Diffusion Models](https://diffusion.csail.mit.edu/2026/index.html)
 
-- **TA**, [*STA414/2104: Statistical Methods for Machine Learning II*](https://thibaultrandrianarisoa.netlify.app/courses/sta414/)  
-  Jan 2025 – Apr 2025, Jan 2026 – Apr 2026
-
-- **TA**, [*STA355: Theory of Statistical Practice*](https://mouwenlong.github.io/teaching/sta355f25/schedule.html)
-  Sep 2025 – Dec 2025
-
-- **TA**, *STA237: Probability, Statistics and Data Analysis I*  
-  Sep 2024 – Dec 2024, May 2025 - Jun 2025
+- Courses I TAed: [*STA414/2104*](https://thibaultrandrianarisoa.netlify.app/courses/sta414/), [*STA355*](https://mouwenlong.github.io/teaching/sta355f25/schedule.html), *STA314*, *STA237*  
 
 ---
 
