@@ -18,17 +18,18 @@ Influenced by my prior academic training and research, I have continued to devel
 ---
 ## News
 
-- **2026-08**: Will give a contributed poster presentation, `Hierarchical Bayesian Copula Model for Probabilistic Population Projection,' at JSM in Boston. Stop by my poster and say hi!
+- **2026-08**: Will give a contributed poster presentation, "Hierarchical Bayesian Copula Model for Probabilistic Population Projection", at JSM in Boston. Stop by my poster and say hi!
 - **2026-07**: Will give a tutorial on Bayesian Workflow using PyMC in [STATSTRO 2026: Sampling, Simulation, and Scientific Discovery](https://statstro.com/)
-- **2026-06**: Attended [`Uncertainty in AI' workshop](https://ivado.ca/en/events/2nd-workshop-uncertainty-in-ai/) in Montreal.
+- **2026-06**: Attended [Uncertainty in AI workshop](https://ivado.ca/en/events/2nd-workshop-uncertainty-in-ai/) in Montreal.
 - **2026-05**: Was awarded the [DSI Doctoral Student Fellowship](https://datasciences.utoronto.ca/doctoral-fellows/). Thanks, DSI!
-- **2026-04**: Presented `Hierarchical Bayesian Copula Model for Probabilistic Population Projection' at DoSS Research Day.
+- **2026-04**: Presented "Hierarchical Bayesian Copula Model for Probabilistic Population Projection" at DoSS Research Day.
 - **2026-01**: Presented [Neural Methods for Amortized Inference](https://www.annualreviews.org/content/journals/10.1146/annurev-statistics-112723-034123) at Bayesian Reading Group.
-- **2025-12**: Contributed Discussion of ``model Uncertainty and Missing Data: An Objective Bayesian Perspective” was published in Bayesian Analysis.
+- **2025-12**: Contributed Discussion of [Model Uncertainty and Missing Data: An Objective Bayesian Perspective](https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Model-Uncertainty-and-Missing-Data-An-Objective-Bayesian-Perspective/10.1214/25-BA1531.full) was published in Bayesian Analysis.
 - **2025-11**: Presented [Conformal Prediction as Bayesian Quadrature](https://arxiv.org/abs/2502.13228) at Bayesian Reading Group.
 - **2025-11**: Presented [A Gentle Introduction to Conformal Prediction](https://arxiv.org/abs/2107.07511) at Applied Statistics Reading Group.
-- **2025-09**: Served as the local organizing committee of the conference [`Fast and Curious 2: MCMC in Action'](https://raducraiu.com/the-fast-and-curious-ii-mcmc-in-action/).
+- **2025-09**: Served as the local organizing committee of the conference [Fast and Curious 2: MCMC in Action](https://raducraiu.com/the-fast-and-curious-ii-mcmc-in-action/).
 - **2025-06**: Served as the 2025 [UTSSRP](https://www.statistics.utoronto.ca/UTSSRP#%23university-of-toronto-statistical-sciences-research-program-utssrp-guide-accordion-1) Student Ambassador and instructor, and led 2 tutorial sessions on Applied Statistics.
+
 ---
 
 <!-- <script
