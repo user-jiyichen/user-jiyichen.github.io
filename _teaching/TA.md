@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Teaching & Mentoring"
-permalink: /teaching/j
+permalink: /teaching/
 author_profile: true
 ---
 
@@ -15,7 +15,7 @@ I enjoy teaching because I believe in the power of articulation. I like to pract
   - [Machine Learning for Inverse Problems and Data Assimilation](https://arxiv.org/pdf/2410.10523)
   - [Flow Matching](https://arxiv.org/abs/2412.06264) and [Diffusion Models](https://diffusion.csail.mit.edu/2026/index.html)
 
-- Courses I TAed: [*STA414/2104*](https://thibaultrandrianarisoa.netlify.app/courses/sta414/), [*STA355*](https://mouwenlong.github.io/teaching/sta355f25/schedule.html), *STA314*, *STA237*  
+- **Courses I TAed**: [STA414/2104](https://thibaultrandrianarisoa.netlify.app/courses/sta414/), [STA355](https://mouwenlong.github.io/teaching/sta355f25/schedule.html), STA314, STA237  
 
 ---
 
