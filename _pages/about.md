@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my homepage! I am a second-year Ph.D. student in Statistics at the University of Toronto, advised by [Radu Craiu](https://raducraiu.com/) and [Monica Alexander](https://www.monicaalexander.com/). I am also an Affiliate Researcher at the [Vector Institute](https://vectorinstitute.ai/) and supported by the [Data Sciences Institute (DSI)](https://datasciences.utoronto.ca/) Doctoral Student Fellowship. 
+Welcome to my homepage! I am a second-year Ph.D. student in Statistics at the University of Toronto, advised by [Radu Craiu](https://raducraiu.com/) and [Monica Alexander](https://www.monicaalexander.com/). I am also an Affiliate Researcher at [Vector Institute](https://vectorinstitute.ai/) and supported by [Data Sciences Institute (DSI)](https://datasciences.utoronto.ca/) Doctoral Student Fellowship.
 
 My research develops scalable Bayesian methodology and computational tools for complex applied problems. I am also thinking about how deep generative models can empower Bayesian computation. I initiate and co-organize the department’s [Bayesian reading group](https://docs.google.com/spreadsheets/d/1TjVcgiL5OHDxMNK1HZgJJDFR3zyxfBesKZMlADuHpG8/edit?gid=0#gid=0). If you’d like to collaborate, chat about research/life, or give a guest talk at our reading group, please feel free to drop me an email!
 
