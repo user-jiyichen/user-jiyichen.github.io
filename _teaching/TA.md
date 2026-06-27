@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-I enjoy teaching because I believe in the power of articulation. I like to practice expressing ideas in minimum description length and help others understand technical concepts jargon-free.
+I enjoy teaching, and I value the power of articulation: expressing ideas concisely and helping others understand technical concepts jargon-free.
 
 #### **University of Toronto**
 
