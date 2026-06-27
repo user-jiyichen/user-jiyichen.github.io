@@ -13,7 +13,7 @@ My research develops scalable Bayesian methodology and computational tools for c
 
 Back in the day, I received my M.S. in Statistics from the University of Chicago in 2024, where I spent two intellectually stimulating years, and was fortunate to be mentored by Professor [Dacheng Xiu](https://dachxiu.chicagobooth.edu/) and Professor [Per Mykland](https://galton.uchicago.edu/~mykland/). Before UChicago, I received my B.S. in Statistics and Financial Mathematics also from UofT.
 
-Influenced by my prior academic training and research, I have continued to develop a side interest in financial machine learning. Outside of research, I spend a decent amount of time behind the lens and on the court. I enjoy the [theory](https://www.lab404.com/3741/readings/sontag.pdf) and practice of photography, and I carry the spirit of sportsmanship in the game of basketball and life.
+Influenced by my prior academic training and research, I have continued to develop a side interest in financial machine learning. Outside of research, I spend a decent amount of time behind the lens and on the court. I enjoy the [theory](https://www.lab404.com/3741/readings/sontag.pdf) and [practice](https://www.instagram.com/yichen_ji) of photography, and I carry the spirit of sportsmanship in the game of basketball and life.
 
 ## News
 
