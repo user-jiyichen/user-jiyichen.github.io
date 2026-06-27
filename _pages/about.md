@@ -11,7 +11,7 @@ Welcome to my homepage! I am a second-year Ph.D. student in Statistics at the Un
 
 My research develops scalable Bayesian methodology and computational tools for complex applied problems. I am also thinking about how deep generative models can empower Bayesian computation. I initiate and co-organize the department’s [Bayesian reading group](https://docs.google.com/spreadsheets/d/1TjVcgiL5OHDxMNK1HZgJJDFR3zyxfBesKZMlADuHpG8/edit?gid=0#gid=0). If you’d like to collaborate, chat about research/life, or give a guest talk at our reading group, please feel free to drop me an email!
 
-Back in the day, I received my M.S. in Statistics from the University of Chicago in 2024, where I spent two wonderful and intellectually stimulating years, and was fortunate to be mentored by Professor [Dacheng Xiu](https://dachxiu.chicagobooth.edu/) and Professor [Per Mykland](https://galton.uchicago.edu/~mykland/). My master's thesis was on large-scale realized volatility prediction with machine learning (see my [presentation slides](/files/Master_Thesis_Presentation_Slides.pdf)). Before UChicago, I received my B.S. in Statistics and Financial Mathematics also from UofT.
+Back in the day, I received my M.S. in Statistics from the University of Chicago in 2024, where I spent two intellectually stimulating years, and was fortunate to be mentored by Professor [Dacheng Xiu](https://dachxiu.chicagobooth.edu/) and Professor [Per Mykland](https://galton.uchicago.edu/~mykland/). Before UChicago, I received my B.S. in Statistics and Financial Mathematics also from UofT.
 
 Influenced by my prior academic training and research, I have continued to develop a side interest in financial machine learning. Outside of research, I spend a decent amount of time behind the lens and on the court. I enjoy the [theory](https://www.lab404.com/3741/readings/sontag.pdf) and practice of photography, and I carry the spirit of sportsmanship in the game of basketball and life.
 
@@ -28,7 +28,7 @@ Influenced by my prior academic training and research, I have continued to devel
 - **2025-11**: Presented [A Gentle Introduction to Conformal Prediction](https://arxiv.org/abs/2107.07511) at Applied Statistics Reading Group.
 - **2025-09**: Served as the local organizing committee of the conference [Fast and Curious 2: MCMC in Action](https://raducraiu.com/the-fast-and-curious-ii-mcmc-in-action/).
 - **2025-06**: Served as the [UTSSRP](https://www.statistics.utoronto.ca/UTSSRP#%23university-of-toronto-statistical-sciences-research-program-utssrp-guide-accordion-1) student ambassador and instructor, and led 2 tutorial sessions on Applied Statistics.
-- **2024-09**: Started my PhD!
+- **2024-09**: Started my PhD deep dive:D
 
 ---
 
