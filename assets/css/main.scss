@@ -1,6 +1,7 @@
 ---
 ---
 
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&display=swap');
 /*
  *    Minimal Mistakes Jekyll Theme
  *
@@ -40,3 +41,27 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 @import "dark-mode";
+
+/* ---------- Font overrides ---------- */
+
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 400;
+}
+
+h1,
+.page__title {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 300;
+  letter-spacing: -0.02em;
+}
+
+h2, h3, h4, h5, h6,
+.archive__item-title {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 400;
+}
+
+code, pre, kbd, samp {
+  font-family: "IBM Plex Mono", "SFMono-Regular", "SF Mono", Menlo, Consolas, monospace;
+}
