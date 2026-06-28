@@ -82,11 +82,11 @@ code, pre, kbd, samp {
   .page,
   .archive {
     width: calc(100% - 300px);
-    padding-right: 0 !important;
+    padding-right: 80px !important;
   }
 
   .sidebar {
-    width: 300px;
+    width: 250px;
   }
 }
 
@@ -103,8 +103,8 @@ code, pre, kbd, samp {
 
 .news-list li {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-weight: 300;
-  font-size: 0.9em;
+  font-weight: 350;
+  font-size: 0.95em;
   line-height: 1.35;
   margin-bottom: 0.3em;
 }
