@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year Ph.D. student in Statistics at the University of Toronto, advised by [Radu Craiu](https://raducraiu.com/) and [Monica Alexander](https://www.monicaalexander.com/). I am also an Affiliate Researcher at [Vector Institute](https://vectorinstitute.ai/) and supported by [Data Sciences Institute (DSI)](https://datasciences.utoronto.ca/) Doctoral Student Fellowship.
+I am a second-year Ph.D. student in Statistics at the University of Toronto, advised by [Radu Craiu](https://raducraiu.com/) and [Monica Alexander](https://www.monicaalexander.com/). I am also an Affiliate Researcher at [Vector Institute](https://vectorinstitute.ai/) and supported by [Data Sciences Institute](https://datasciences.utoronto.ca/) Doctoral Student Fellowship.
 
 I approach Bayes as both a computational problem and a service to natural and social sciences:
 1. On the methodological side, I study scalable Bayesian computation, with particular interest in simulation-based methods, amortized inference, and the two-way interaction between Bayesian computation and deep generative modeling: using generative models to scale approximate Bayesian inference, and using Bayesian principles to make generative modeling more reliable.
@@ -15,14 +15,14 @@ I approach Bayes as both a computational problem and a service to natural and so
 
 I initiate and co-organize the department’s [Bayesian reading group](https://docs.google.com/spreadsheets/d/1TjVcgiL5OHDxMNK1HZgJJDFR3zyxfBesKZMlADuHpG8/edit?gid=0#gid=0). If you’d like to collaborate, chat about research/life, or give a guest talk at our reading group, please feel free to drop me an email!
 
-Back in the day, I received my M.S. in Statistics from the University of Chicago in 2024, where I spent two intellectually stimulating years, and was fortunate to be mentored by Professor [Dacheng Xiu](https://dachxiu.chicagobooth.edu/) and Professor [Per Mykland](https://galton.uchicago.edu/~mykland/). Before UChicago, I received my B.S. in Statistics and Financial Mathematics also from UofT. Influenced by my prior experiences, I have continued to follow the literature on machine learning in the study of financial markets. 
+Back in the day, I received my M.S. in Statistics from the University of Chicago in 2024, where I spent two intellectually stimulating years, and was fortunate to be mentored by [Dacheng Xiu](https://dachxiu.chicagobooth.edu/) and [Per Mykland](https://galton.uchicago.edu/~mykland/). Even earlier, I received my B.S. in Statistics and Financial Mathematics from UofT. Influenced by my prior experiences, I have continued to follow the literature on machine learning in the study of financial markets. 
 
 Outside of research, I spend a decent amount of time behind the lens and on the court. I enjoy the [theory](https://www.lab404.com/3741/readings/sontag.pdf) and [practice](https://www.instagram.com/yichen_ji) of photography, and I carry the spirit of sportsmanship in the game of basketball and life.
 
 ## News
 <div class="news-list" markdown="1">
 - **2026-08**: Will give a contributed poster presentation, "Hierarchical Bayesian Copula Model for Probabilistic Population Projection", at JSM in Boston. Stop by my poster and say hi!
-- **2026-07**: Will give a tutorial on Bayesian Workflow using PyMC in [STATSTRO 2026: Sampling, Simulation, and Scientific Discovery](https://statstro.com/).
+- **2026-07**: Will give a tutorial on Bayesian Workflow using PyMC in [STATSTRO: Sampling, Simulation, and Scientific Discovery](https://statstro.com/).
 - **2026-06**: Attended [Uncertainty in AI workshop](https://ivado.ca/en/events/2nd-workshop-uncertainty-in-ai/) in Montreal.
 - **2026-05**: Was awarded the [DSI Doctoral Student Fellowship](https://datasciences.utoronto.ca/doctoral-fellows/).
 - **2026-04**: Presented "Hierarchical Bayesian Copula Model for Probabilistic Population Projection" at DoSS Research Day.
