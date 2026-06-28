@@ -20,7 +20,7 @@ Back in the day, I received my M.S. in Statistics from the University of Chicago
 Outside of research, I spend a decent amount of time behind the lens and on the court. I enjoy the [theory](https://www.lab404.com/3741/readings/sontag.pdf) and [practice](https://www.instagram.com/yichen_ji) of photography, and I carry the spirit of sportsmanship in the game of basketball and life.
 
 ## News
-
+<div class="news-list" markdown="1">
 - **2026-08**: Will give a contributed poster presentation, "Hierarchical Bayesian Copula Model for Probabilistic Population Projection", at JSM in Boston. Stop by my poster and say hi!
 - **2026-07**: Will give a tutorial on Bayesian Workflow using PyMC in [STATSTRO 2026: Sampling, Simulation, and Scientific Discovery](https://statstro.com/).
 - **2026-06**: Attended [Uncertainty in AI workshop](https://ivado.ca/en/events/2nd-workshop-uncertainty-in-ai/) in Montreal.
@@ -33,7 +33,7 @@ Outside of research, I spend a decent amount of time behind the lens and on the 
 - **2025-09**: Served as the local organizing committee of the conference [Fast and Curious 2: MCMC in Action](https://raducraiu.com/the-fast-and-curious-ii-mcmc-in-action/).
 - **2025-06**: Served as the [UTSSRP](https://www.statistics.utoronto.ca/UTSSRP#%23university-of-toronto-statistical-sciences-research-program-utssrp-guide-accordion-1) student ambassador and instructor, and led 2 tutorial sessions on Applied Statistics.
 - **2024-09**: Started my PhDeep dive:D
-
+</div>
 ---
 
 <!-- <script
