@@ -11,7 +11,7 @@ Welcome to my homepage! I am a second-year Ph.D. student in Statistics at the Un
 
 I approach Bayes as both a computational problem and a service to natural and social sciences:
 1. On the methodological side, I study scalable Bayesian computation, with particular interest in simulation-based methods, amortized inference, and the two-way interaction between Bayesian computation and deep generative modeling: using generative models to scale approximate Bayesian inference, and using Bayesian principles to make generative modeling more reliable.
-2. On the applied side, I care about building models and tools that serve scientific discovery rather than merely decorate it.
+2. On the applied side, I care about tools that serve scientific discovery rather than merely decorate it. I develop statistical models that help domain experts extract decision-relevant insight from complex data through principled uncertainty quantification.
 
 I initiate and co-organize the department’s [Bayesian reading group](https://docs.google.com/spreadsheets/d/1TjVcgiL5OHDxMNK1HZgJJDFR3zyxfBesKZMlADuHpG8/edit?gid=0#gid=0). If you’d like to collaborate, chat about research/life, or give a guest talk at our reading group, please feel free to drop me an email!
 
