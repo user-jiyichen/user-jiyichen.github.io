@@ -18,7 +18,7 @@ A (very) personalized list of writings I found inspiring and worth returning to.
 **Blogs**
 - [Blogs on Bayes](https://danmackinlay.name/#category=Bayes) by Dan Mackinlay
 
-Insightful collections on various topics.
+ A rich collection on various topics around Bayesian statistics.
 
 - [How to do great work](https://paulgraham.com/greatwork.html) by Paul Graham
 
