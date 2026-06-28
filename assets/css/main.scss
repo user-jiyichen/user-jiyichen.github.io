@@ -72,3 +72,22 @@ code, pre, kbd, samp {
   font-family: "IBM Plex Mono", "SFMono-Regular", "SF Mono", Menlo, Consolas, monospace;
 }
 
+#main {
+  max-width: 1450px;
+}
+
+.page,
+.archive {
+  width: calc(100% - 250px);
+}
+
+.page__content p {
+  text-align: justify;
+  text-justify: inter-word;
+  hyphens: auto;
+}
+
+.page__content li {
+  text-align: justify;
+  hyphens: auto;
+}
