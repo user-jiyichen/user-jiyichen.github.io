@@ -15,7 +15,7 @@ I approach Bayes as both a computational problem and a practical service to scie
 
 I initiate and co-organize the department’s [Bayesian reading group](https://docs.google.com/spreadsheets/d/1TjVcgiL5OHDxMNK1HZgJJDFR3zyxfBesKZMlADuHpG8/edit?gid=0#gid=0). If you’d like to collaborate, chat about research/life, or give a guest talk at our reading group, please feel free to drop me an email!
 
-Back in the day, I received my M.S. in Statistics from the University of Chicago in 2024, where I spent two intellectually stimulating years, and was fortunate to be mentored by Professor [Dacheng Xiu](https://dachxiu.chicagobooth.edu/) and Professor [Per Mykland](https://galton.uchicago.edu/~mykland/). Before UChicago, I received my B.S. in Statistics and Financial Mathematics also from UofT. Influenced by my prior academic training and research, I have continued to develop a side interest in financial machine learning. 
+Back in the day, I received my M.S. in Statistics from the University of Chicago in 2024, where I spent two intellectually stimulating years, and was fortunate to be mentored by Professor [Dacheng Xiu](https://dachxiu.chicagobooth.edu/) and Professor [Per Mykland](https://galton.uchicago.edu/~mykland/). Before UChicago, I received my B.S. in Statistics and Financial Mathematics also from UofT. Influenced by my prior experiences, I have continued to follow the literature on machine learning in the study of financial markets. 
 
 Outside of research, I spend a decent amount of time behind the lens and on the court. I enjoy the [theory](https://www.lab404.com/3741/readings/sontag.pdf) and [practice](https://www.instagram.com/yichen_ji) of photography, and I carry the spirit of sportsmanship in the game of basketball and life.
 
