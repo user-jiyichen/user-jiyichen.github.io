@@ -29,7 +29,7 @@ A rich collection of various topics around recent advances in Bayesian statistic
 
  - [Towards A Principled Bayesian Workflow](https://betanalpha.github.io/assets/case_studies/principled_bayesian_workflow.html) by Michael Betancourt
 
-A friendly walk-through guideline for applied Bayesian modeling.r
+A friendly walk-through guideline for applied Bayesian modeling.
 
 **Texts**
 - [Statistics and Information Theory](https://web.stanford.edu/class/ee377/lecture-notes.pdf) by John Duchi ([corresponding course link](https://web.stanford.edu/class/ee377/syllabus.html))
