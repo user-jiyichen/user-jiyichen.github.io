@@ -8,4 +8,4 @@ date: 2026-07-17
 location: "Toronto, ON, Canada"
 ---
 
-This tutorial walks through common steps in the Bayesian workflow in PyMC and provides some pointers I find useful for further reading.
+This tutorial walks through common steps of the Bayesian workflow in PyMC and provides some pointers I find useful for further reading.
