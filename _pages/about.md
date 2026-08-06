@@ -35,3 +35,5 @@ Outside of research, I spend a decent amount of time behind the lens and on the 
 - **2024-09**: Started my PhDeep dive:D
 </div>
 ---
+
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=5RkncXKTAOBsWyNU76VfevrdOu4wg6mA7A1Mp6b3udc&cl=ffffff&w=a"></script>
