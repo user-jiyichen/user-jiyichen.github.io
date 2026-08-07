@@ -9,7 +9,7 @@ redirect_from:
 
 I am a second-year Ph.D. student in Statistics at the University of Toronto, advised by [Radu Craiu](https://raducraiu.com/) and [Monica Alexander](https://www.monicaalexander.com/). I am also a [Doctoral Student Fellow at Data Sciences Institute (DSI)](https://datasciences.utoronto.ca/doctoral-student-fellowship/) and an Affiliate Researcher at [Vector Institute](https://vectorinstitute.ai/).
 
-I approach Bayes as both a computational problem and a service to natural and social sciences:
+I approach Bayes as both a computational problem and a service to physical and social sciences:
 1. On the methodological side, I study scalable Bayesian computation, with particular interest in simulation-based methods, amortized inference, and the two-way interaction between Bayesian computation and deep generative modeling: using generative models to scale approximate Bayesian inference, and using Bayesian principles to make generative modeling more reliable.
 2. On the applied side, I care about tools that serve scientific discovery rather than merely decorate it. I develop statistical models that help domain experts extract decision-oriented insight from complex data through principled uncertainty quantification.
 
@@ -21,7 +21,7 @@ Outside of research, I spend a decent amount of time behind the lens and on the 
 
 ## News
 <div class="news-list" markdown="1">
-- **2026-08**: Gave a contributed poster presentation, "Hierarchical Bayesian Copula Model for Probabilistic Population Projection", at JSM.
+- **2026-08**: Gave a contributed poster, "Hierarchical Bayesian Copula Model for Probabilistic Population Projection" at JSM.
 - **2026-07**: Gave a tutorial on [Bayesian Workflow using PyMC](https://github.com/user-jiyichen/user-jiyichen.github.io/blob/master/files/Bayesian_workflow_tutorial_STATSTRO.ipynb) in [STATSTRO: Sampling, Simulation, and Scientific Discovery](https://statstro.com/).
 - **2026-06**: Attended [Uncertainty in AI workshop](https://ivado.ca/en/events/2nd-workshop-uncertainty-in-ai/) in Montreal.
 - **2026-05**: Was awarded the [DSI Doctoral Student Fellowship](https://datasciences.utoronto.ca/doctoral-fellows/).
