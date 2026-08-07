@@ -40,5 +40,5 @@ Outside of research, I spend a decent amount of time behind the lens and on the 
 <script 
   type="text/javascript" 
   id="mapmyvisitors" 
-  src="https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=m&d=5RkncXKTAOBsWyNU76VfevrdOu4wg6mA7A1Mp6b3udc&cmo=be454f&cmn=7e9285">
+  src="https://mapmyvisitors.com/map.js?cl=ffffff&w=200&t=m&d=5RkncXKTAOBsWyNU76VfevrdOu4wg6mA7A1Mp6b3udc&co=385d8d&cmo=be454f&cmn=7e9285">
 </script>
