@@ -14,6 +14,8 @@ A (very) personalized list of writings I found inspiring and worth returning to.
 
 - [Philosophy and the practice of Bayesian statistics](https://arxiv.org/pdf/1006.3868) by Andrew Gelman and Cosma Shalizi
 
+Hypothetico–deductive view of Bayesian inference.
+
 **Blogs**
 - What Keeps a Bayesian Awake At Night? [Day Time](https://mlg.eng.cam.ac.uk/blog/2021/03/31/what-keeps-a-bayesian-awake-at-night-part-1.html#fn:2), [Night Time](https://mlg.eng.cam.ac.uk/blog/2021/03/31/what-keeps-a-bayesian-awake-at-night-part-2.html#fn:7)
 
