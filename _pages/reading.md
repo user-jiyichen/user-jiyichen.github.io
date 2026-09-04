@@ -40,3 +40,5 @@ Modernize a seemingly old idea through a new lens.
 - [You and Your Research](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html) by Richard Hamming
 
 - [Personal Rules of Productive Research](https://www.eugenevinitsky.com/posts/personal-rules-of-productive-research/) by Eugene Vinitsky
+
+- [10 easy ways to fail a Ph.D.](https://matt.might.net/articles/ways-to-fail-a-phd/) by Matt Might
