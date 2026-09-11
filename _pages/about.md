@@ -13,7 +13,7 @@ I approach Bayes as both a computational problem and a service to (physical & so
 1. On the methodological side, I study scalable Bayesian computation, with particular interest in simulation-based methods, amortized inference, and its synergy with deep generative modeling.
 2. On the applied side, I care about developing tools that serve scientific discovery rather than merely decorate it. I develop probabilistic models that help domain experts extract decision-oriented understanding.
 
-I initiated and co-organize the department’s [Bayesian reading group](https://docs.google.com/spreadsheets/d/1TjVcgiL5OHDxMNK1HZgJJDFR3zyxfBesKZMlADuHpG8/edit?gid=0#gid=0). If you’d like to collaborate, chat about research/life, or give a guest talk at our reading group, please feel free to drop me an email!
+I initiated and co-organize the department’s [Bayesian reading group](https://user-jiyichen.github.io/UofT-DoSS-Reading-Group/). If you’d like to collaborate, chat about research/life, or give a guest talk at our reading group, please feel free to drop me an email!
 
 Back in the day, I received my M.S. in Statistics from the University of Chicago in 2024, where I spent two intellectually stimulating years and was fortunate to be mentored by [Dacheng Xiu](https://dachxiu.chicagobooth.edu/) and [Per Mykland](https://galton.uchicago.edu/~mykland/). Even earlier, I received my B.S. in Statistics and Financial Mathematics from UofT. Influenced by my prior experiences, I have continued to follow the work on machine learning in the study of financial markets. 
 
