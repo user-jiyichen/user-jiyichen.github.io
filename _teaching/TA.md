@@ -15,7 +15,7 @@ I enjoy teaching, and I value the power of articulation: expressing ideas concis
   - [Machine Learning for Inverse Problems and Data Assimilation](https://arxiv.org/pdf/2410.10523)
   - [Flow Matching](https://arxiv.org/abs/2412.06264) and [Diffusion Models](https://diffusion.csail.mit.edu/2026/index.html)
 
-- **Courses I TAed**: [STA414/2104](https://thibaultrandrianarisoa.netlify.app/courses/sta414/), [STA355](https://mouwenlong.github.io/teaching/sta355f25/schedule.html), STA314, STA237  
+- **Courses I TAed**: STA492, STA490,[STA414/2104](https://thibaultrandrianarisoa.netlify.app/courses/sta414/), [STA355](https://mouwenlong.github.io/teaching/sta355f25/schedule.html), STA314, STA237  
 
 ---
 
