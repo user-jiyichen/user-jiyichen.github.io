@@ -21,7 +21,7 @@ Outside of research, I spend a decent amount of time behind the lens and on the 
 
 ## News
 <div class="news-list" markdown="1">
-- **2026-12**: Will give a poster in Bayesian Methods for the Social Sciences III workshop in Dublin.
+- **2026-12**: Will give a poster in [Bayesian Methods for the Social Sciences III](https://bayesforshs3.sciencesconf.org/program/graphic/date/2026-12-10) workshop in Dublin.
 - **2026-08**: Gave a contributed poster, "Hierarchical Bayesian Copula Model for Probabilistic Population Projection," at JSM.
 - **2026-07**: Gave a tutorial on [Bayesian Workflow using PyMC](https://github.com/user-jiyichen/user-jiyichen.github.io/blob/master/files/Bayesian_workflow_tutorial_STATSTRO.ipynb) in [STATSTRO: Sampling, Simulation, and Scientific Discovery](https://statstro.com/).
 - **2026-06**: Attended [Uncertainty in AI workshop](https://ivado.ca/en/events/2nd-workshop-uncertainty-in-ai/) in Montreal.
